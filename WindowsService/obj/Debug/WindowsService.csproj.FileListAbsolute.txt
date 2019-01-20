@@ -1,0 +1,9 @@
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\MyFiles\git\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+D:\MyFiles\git\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+D:\MyFiles\git\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+D:\MyFiles\git\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
